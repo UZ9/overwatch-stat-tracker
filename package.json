@@ -1,0 +1,17 @@
+{
+  "name": "overwatch-stat-tracker",
+  "version": "1.0.1",
+  "description": "An overwatch webscraper that retrieves the statistics of any player returned in json format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "overwatch"
+  ],
+  "author": "UZ9 (Yerti)",
+  "license": "MIT",
+  "dependencies": {
+    "requestify": "^0.2.5"
+  }
+}
